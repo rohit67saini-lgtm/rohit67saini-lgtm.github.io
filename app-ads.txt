@@ -337,4 +337,4 @@ zetaglobal.net, 630, RESELLER
 
 zmaticoo.com, 5135195, RESELLER
 
-facebook.com, 534155922688970, DIRECT, c3e20eee3f780d68
+facebook.com, 534155922688970, RESELLER, c3e20eee3f780d68
